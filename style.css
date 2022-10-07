@@ -1,0 +1,35 @@
+
+     body{
+       background-color:white; 
+         text-align: center;
+ }
+     .bg{
+    background-image:url("wcats.jpg");
+height: 100%;
+ background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+     }  
+     h1{
+      color:red;   
+     }
+     p{
+         color:black;
+     }  
+     img{
+    width: 500px;
+     }
+     .button5 {
+  background-color: red;
+  color: black;
+  border: 7px solid #555555;
+}
+
+.button5:hover {
+  background-color: #555555;
+  color: black;
+}
+     .buttontb{
+       position: absolute;  
+    left: 20px;  
+     }
